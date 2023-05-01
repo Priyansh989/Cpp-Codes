@@ -1,0 +1,10 @@
+Disk scheduling (2)
+Deadlock (2)
+Memory management (1)—Fragmentation
+BF,WF,FF (also memory)
+RAG to WFG
+Process:
+FCFS
+SJF(preemptive and non)
+Priority
+RR
